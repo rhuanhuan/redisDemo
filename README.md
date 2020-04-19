@@ -17,3 +17,6 @@ redis主从demo
 cd redisMS
 ./start-redis.sh
 ```
+
+#### redisCluster
+redis集群，6个节点
